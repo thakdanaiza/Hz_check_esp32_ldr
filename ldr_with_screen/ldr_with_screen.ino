@@ -15,7 +15,7 @@
 #include "heltec.h"
 #include "images.h"
 
-#define Analog  4  //Analog output of Light Sensor Module connected to A0 of BBFuino
+#define Analog 7  //Analog output of Light Sensor Module connected to A0 of BBFuino
 #define DEMO_DURATION 3000
 typedef void (*Demo)(void);
 
